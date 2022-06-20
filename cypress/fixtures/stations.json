@@ -1,0 +1,14 @@
+{
+  "stations": [
+    {
+      "name": "Mallow",
+      "stationCode": "MALL",
+      "id": 1
+    },
+    {
+      "name": "Station 2",
+      "stationCode": "ST2",
+      "id": 2
+    }
+  ]
+}

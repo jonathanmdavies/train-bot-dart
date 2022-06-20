@@ -1,0 +1,16 @@
+{
+  "arrivals": [
+    {
+      "Traincode": "A220",
+      "Destination": "Cork",
+      "Duein": 8,
+      "Exparrival": "17:57"
+    },
+    {
+      "Traincode": "A313",
+      "Destination": "Station 1",
+      "Duein": 12,
+      "Exparrival": "18:37"
+    }
+  ]
+}
